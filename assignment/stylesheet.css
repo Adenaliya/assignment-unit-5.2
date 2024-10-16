@@ -1,0 +1,17 @@
+header{
+     background-color:rgb(130, 105, 5);
+    font-size: x-large
+    text-decoration;color: rgb(221, 219, 99);
+}
+main{
+background-color: rgb(162, 166, 166);
+padding:1em
+text-decoration; color: rgb(130, 105, 5);
+
+}
+body {
+    background-image: url("photo.png");
+    background-repeat:url("photo.png");
+    margin: 0; 
+    padding: 0;
+   }
